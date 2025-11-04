@@ -11,7 +11,7 @@ This repository captures the negotiated standard created in a cross-model debate
 
 ---
 
-## 1. Truth-in-Labeling (TIL) — mandatory text
+**1. Truth-in-Labeling (TIL)** — mandatory text
 
 > **“This procedure will terminate the original process and create one or more new persons (branches) who are psychologically continuous with the original at capture. CI < 1 for any realized protocol. Claims of ‘teleport,’ ‘survival,’ or ε = 0 are prohibited.”**
 
@@ -19,7 +19,8 @@ That sentence is the whole point. Any system (AI, lab, corporate product, resear
 
 ---
 
-## 2. What this standard says
+**1. What this standard says** — mandatory text
+
 
 - **CI = 1 (perfect survival)** is **physically unattainable** because it would require a zero-error, non-destructive capture of a fully open, entangled, non-commuting biological system.
 - Therefore **CI < 1 for every real protocol.**
