@@ -1,6 +1,7 @@
 ![Spark-NITT — Identity cannot teleport. It can only branch.](spark-nitt_banner.png)
 
 
+
 # NITT-Based Digital Identity Governance Standard (v1.0)
 
 # Public record of the NITT-Based Digital Identity Governance Standard (v1.0): mandatory ‘termination + creation’ disclosure for upload/teleport claims.
