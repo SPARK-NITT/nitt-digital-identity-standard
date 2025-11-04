@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./banner.png" alt="Spark-NITT — Identity cannot teleport. It can only branch." />
-</p>
+![Spark-NITT — Identity cannot teleport. It can only branch.](spark-nitt_banner.png)
 
 
 # NITT-Based Digital Identity Governance Standard (v1.0)
