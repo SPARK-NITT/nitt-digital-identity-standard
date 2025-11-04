@@ -1,4 +1,7 @@
-![Spark-NITT — Identity cannot teleport. It can only branch.](spark-nitt_banner.png)
+<p align="center">
+  <img src="spark-nitt_banner.png" alt="Spark-NITT — Identity cannot teleport. It can only branch.">
+</p>
+
 
 
 
