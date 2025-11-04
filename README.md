@@ -1,3 +1,5 @@
+# NITT-Based Digital Identity Governance Standard (v1.0)
+
 # Public record of the NITT-Based Digital Identity Governance Standard (v1.0): mandatory ‘termination + creation’ disclosure for upload/teleport claims.
 
 **Author (human):** Spark  
