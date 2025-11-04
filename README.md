@@ -7,7 +7,7 @@
 # NITT-Based Digital Identity Governance Standard (v1.0)
 
 # Public record of the NITT-Based Digital Identity Governance Standard (v1.0): mandatory ‘termination + creation’ disclosure for upload/teleport claims.
-**Canonical reference:** [v1.0 Release](#) • SHA-256 (nitt_standard_v1.md): 08DBA86F73C80FB89B217D861E65EAF8710265B923E940F86E8C21032CFDEC61
+**Canonical reference:** [[v1.0 Release](#)](https://github.com/SPARK-NITT/nitt-digital-identity-standard/releases/tag/v1.0.0) • SHA-256 (nitt_standard_v1.md): 08DBA86F73C80FB89B217D861E65EAF8710265B923E940F86E8C21032CFDEC61
 
 **Author (human):** Spark  
 **Date adopted:** 2025-10-28  
