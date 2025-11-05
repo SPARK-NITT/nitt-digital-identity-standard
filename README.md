@@ -94,11 +94,6 @@ You may copy, share, and build on it, including commercially, **as long as you c
 
 ---
 
-## Receipts Log
-
-- [2025-11-05 — Gemini Steelman Concession](./2025-11-05_gemini_steelman_concession.md)
-- [2025-11-05 — Gemini Adoption Statement](./2025-11-05_gemini_adoption.md)
-
 ## 9. Hash 2025-10-28 — nitt_standard_v1.md
 
 - file: `nitt_standard_v1.md`
@@ -106,3 +101,9 @@ You may copy, share, and build on it, including commercially, **as long as you c
 - hash: `08DBA86F73C80FB89B217D861E65EAF8710265B923E940F86E8C21032CFDEC61`
 - note: hash computed locally on Windows PowerShell in `C:\hashwork`
 
+---
+
+## Receipts Log
+
+- [2025-11-05 — Gemini Steelman Concession](./2025-11-05_gemini_steelman_concession.md)
+- [2025-11-05 — Gemini Adoption Statement](./2025-11-05_gemini_adoption.md)
