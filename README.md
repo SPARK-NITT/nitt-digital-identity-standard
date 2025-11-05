@@ -94,6 +94,11 @@ You may copy, share, and build on it, including commercially, **as long as you c
 
 ---
 
+## Receipts Log
+
+- [2025-11-05 — Gemini Steelman Concession](./2025-11-05_gemini_steelman_concession.md)
+- [2025-11-05 — Gemini Adoption Statement](./2025-11-05_gemini_adoption.md)
+
 ## 9. Hash 2025-10-28 — nitt_standard_v1.md
 
 - file: `nitt_standard_v1.md`
