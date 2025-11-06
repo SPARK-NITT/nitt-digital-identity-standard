@@ -5,8 +5,6 @@
 
 
 # NITT-Based Digital Identity Governance Standard (v1.0)
-
-# NITT-Based Digital Identity Governance Standard (v1.0)
 **Identity cannot teleport. It can only branch.**
 
 > Mandatory “termination + creation” disclosure and audit protocol for any claimed
