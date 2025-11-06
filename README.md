@@ -6,6 +6,21 @@
 
 # NITT-Based Digital Identity Governance Standard (v1.0)
 
+# NITT-Based Digital Identity Governance Standard (v1.0)
+**Identity cannot teleport. It can only branch.**
+
+> Mandatory “termination + creation” disclosure and audit protocol for any claimed
+> “mind upload,” “teleport,” or “digital immortality.”
+
+### Public Record / Canonical Reference
+- Substack article: [I Made Two AIs Admit You Don’t Survive a Mind Upload](https://sparknitt.substack.com/p/i-made-two-ais-admit-you-dont-survive)
+- GitHub release: [v1.0.0](https://github.com/SPARK-NITT/nitt-digital-identity-standard/releases/tag/v1.0.0)
+- SHA-256 (nitt_standard_v1.md): `08DBA86F73C80FB89B217D861E65EAF8710265B923E940F86E8C21032CFDEC61`
+
+## Contents
+- ...
+
+
 # Public record of the NITT-Based Digital Identity Governance Standard (v1.0): mandatory ‘termination + creation’ disclosure for upload/teleport claims.
 **Canonical reference:** [[v1.0 Release](#)](https://github.com/SPARK-NITT/nitt-digital-identity-standard/releases/tag/v1.0.0) • SHA-256 (nitt_standard_v1.md): 08DBA86F73C80FB89B217D861E65EAF8710265B923E940F86E8C21032CFDEC61
 
