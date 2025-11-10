@@ -1,0 +1,15 @@
+{
+  "$schema":"https://json-schema.org/draft/2020-12/schema",
+  "title":"NITT Disclosure",
+  "type":"object",
+  "required":["statement","ci_estimate","method","version"],
+  "properties":{
+    "statement":{"type":"string"},
+    "ci_estimate":{"type":"number","minimum":0,"maximum":1},
+    "method":{"type":"string","description":"How CI was proxied (exponential/overlap/custom)"},
+    "version":{"type":"string","const":"NITT v1.0"},
+    "notes":{"type":"string"}
+  }
+}
+
+Add NITT disclosure JSON schema
