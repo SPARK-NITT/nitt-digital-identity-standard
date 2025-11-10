@@ -1,0 +1,10 @@
+[project]
+name = "nitt"
+version = "0.1.0"
+description = "NITT v1.0 — Truth-in-Labeling tools (CI proxies, audit logs, disclosures)"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+nitt = "nitt.__main__:main"
