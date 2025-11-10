@@ -60,3 +60,7 @@ You may copy, share, and build on it, including commercially, <b>as long as you 
 <ul> <li>file: <code>nitt_standard_v1.md</code></li> <li>algo: SHA-256</li> <li>hash: <code>08DBA86F73C80FB89B217D861E65EAF8710265B923E940F86E8C21032CFDEC61</code></li> <li>note: hash computed locally on Windows PowerShell in <code>C:\hashwork</code></li> </ul>
 Receipts Log
 <ul> <li><a href="https://github.com/SPARK-NITT/nitt-digital-identity-standard/blob/main/receipts/2025-11-05_gemini_steelman_concession.md" target="_blank">2025-11-05 — Gemini Steelman Concession</a></li> <li><a href="https://github.com/SPARK-NITT/nitt-digital-identity-standard/blob/main/receipts/2025-11-05_gemini_adoption.md" target="_blank">2025-11-05 — Gemini Adoption Statement</a></li> </ul>
+
+## 🎛️ Try the NITT Playground
+Play with an illustrative CI curve here:  
+https://spark-nitt.github.io/nitt-digital-identity-standard/playground.html
