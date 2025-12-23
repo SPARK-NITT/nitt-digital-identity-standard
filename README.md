@@ -64,3 +64,15 @@ Receipts Log
 ## 🎛️ Try the NITT Playground
 Play with an illustrative CI curve here:  
 https://spark-nitt.github.io/nitt-digital-identity-standard/playground.html
+
+### Related SPARK-NITT standards
+
+- NITT — digital identity standard  
+  https://github.com/SPARK-NITT/nitt-digital-identity-standard
+- IRST — transparency for recursive systems  
+  https://github.com/SPARK-NITT/IRST-Institute-for-Recursive-Systems-Transparency
+- HRIS — coherence-centered refusal (HRIS 3.2.4(b))  
+  https://github.com/SPARK-NITT/HRIS-Human-Recursive-Integrity-Standard
+- CTGS — consumer transparency governance  
+  https://github.com/SPARK-NITT/ctgs-consumer-transparency-standard
+
