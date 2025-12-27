@@ -1,5 +1,4 @@
-NITT README — License-Corrected Version
-
+NITT README — Hash-Decoupled Version
 <p align="center"> <img src="spark-nitt_banner.png" alt="Spark-NITT — Identity cannot teleport. It can only branch." width="640"> </p>
 Spark-NITT — Identity cannot teleport. It can only branch.
 NITT-Based Digital Identity Governance Standard (v1.0)
@@ -11,17 +10,16 @@ Identity cannot teleport. It can only branch.
 Public Record / Canonical Reference
 
 Substack article:
-I Made Two AIs Admit You Don’t Survive a Mind Upload
 https://sparknitt.substack.com/p/i-made-two-ais-admit-you-dont-survive
 
 GitHub release:
 https://github.com/SPARK-NITT/nitt-digital-identity-standard/releases/tag/v1.0.0
 
-SHA-256 (nitt_standard_v1.md):
-08DBA86F73C80FB89B217D861E65EAF8710265B923E940F86E8C21032CFDEC61
-
 Public record of the NITT-Based Digital Identity Governance Standard (v1.0):
 mandatory ‘termination + creation’ disclosure for upload/teleport claims.
+
+Canonical reference:
+v1.0 Release
 
 Author (human): Spark
 Date adopted: 2025-10-28
@@ -33,9 +31,7 @@ all real-world upload / teleport / exocortex / continuity-ramp protocols must be
 
 1. Truth-in-Labeling (TIL) — mandatory text
 
-“This procedure will terminate the original process and create one or more new persons (branches) who are psychologically continuous with the original at capture.
-CI < 1 for any realized protocol.
-Claims of ‘teleport,’ ‘survival,’ or ε = 0 are prohibited.”
+“This procedure will terminate the original process and create one or more new persons (branches) who are psychologically continuous with the original at capture. CI < 1 for any realized protocol. Claims of ‘teleport,’ ‘survival,’ or ε = 0 are prohibited.”
 
 2. What this standard says — mandatory text
 
@@ -90,12 +86,22 @@ Sell or commercially repackage this document or its contents.
 
 Spark. NITT-Based Digital Identity Governance Standard (v1.0). 28 Oct 2025.
 
-9. Hash 2025-10-28 — nitt_standard_v1.md
+9. Integrity and Hashes
 
-file: nitt_standard_v1.md
-algo: SHA-256
-hash: 08DBA86F73C80FB89B217D861E65EAF8710265B923E940F86E8C21032CFDEC61
+Authoritative SHA-256 hashes for canonical documents are maintained in:
+meta/HASHES.md
+
+The README is not part of the hash surface and may change without rehashing.
 
 Receipts Log:
 https://github.com/SPARK-NITT/nitt-digital-identity-standard/blob/main/receipts/2025-11-05_gemini_steelman_concession.md
 https://github.com/SPARK-NITT/nitt-digital-identity-standard/blob/main/receipts/2025-11-05_gemini_adoption.md
+
+Try the NITT Playground:
+https://spark-nitt.github.io/nitt-digital-identity-standard/playground.html
+
+Related SPARK-NITT standards:
+NITT — digital identity standard
+IRST — transparency for recursive systems
+HRIS — coherence-centered refusal
+CTGS — consumer transparency governance
