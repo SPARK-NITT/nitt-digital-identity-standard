@@ -72,15 +72,11 @@ Therefore a public standard + disclosure text is required.
 
 7. License
 
-This document: CC BY-ND 4.0 (Creative Commons Attribution–NoDerivatives 4.0 International)
+Non-commercial redistribution is allowed **only as an unchanged copy**. **No derivatives.**
+Commercial use (including sale/monetization) requires a separate paid license from the author.
 
-You may:
-Read and share this document verbatim with attribution to “Spark”.
+See `LICENSE`.
 
-You may not:
-Modify, remix, adapt, or create derivative works.
-Redistribute altered versions under the same name.
-Sell or commercially repackage this document or its contents.
 
 8. Suggested citation
 
